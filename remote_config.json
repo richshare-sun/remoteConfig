@@ -1,4 +1,5 @@
 {
   "mainGameUrl":"https://web.2sun.win",
-  "iosLaunchMainGame": true
+  "iosLaunchMainGame": true,
+  "androidVer": "1.0.0"
 }
