@@ -1,0 +1,206 @@
+[
+  {
+    "GameID": 1,
+    "GameName": "Ăn Khế Trả Vàng",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 2,
+    "GameName": "Tây Du Ký",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 3,
+    "GameName": "Thewitcher",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 4,
+    "GameName": "Thần Tài",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 5,
+    "GameName": "Kho Tàng Ngũ Long",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 6,
+    "GameName": "Cung Hỷ Phát Tài",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 7,
+    "GameName": "Mini Slot 777",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 8,
+    "GameName": "Tài xỉu",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 9,
+    "GameName": "Sơn Tinh Thủy Tinh",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 10,
+    "GameName": "Vòng quay may mắn",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 11,
+    "GameName": "Mini Pocker",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 12,
+    "GameName": "MiniGems",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 14,
+    "GameName": "Rồng Hổ",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 15,
+    "GameName": "Kho Báu Tứ Linh",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 16,
+    "GameName": "Bến Thượng Hải",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 17,
+    "GameName": "Gái Nhảy",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 18,
+    "GameName": "Racing Wild",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 19,
+    "GameName": "Baccarat",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 20,
+    "GameName": "Bầu Cua",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 21,
+    "GameName": "Lô Đề",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 23,
+    "GameName": "Bắn Cá",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 51,
+    "GameName": "Ba Cây",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 54,
+    "GameName": "TIEN_LEN_MN",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 55,
+    "GameName": "MAU_BINH",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 57,
+    "GameName": "Poker Texas Holdeim",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 61,
+    "GameName": "BA_CAY_GA",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 62,
+    "GameName": "BA_CAY_BIEN",
+    "isShow": false,
+    "isMaintain": false
+  },
+  {
+    "GameID": 63,
+    "GameName": "Xóc Đĩa",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 66,
+    "GameName": "TIEN_LEN_MN_SOLO",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 68,
+    "GameName": "Tài xỉu md5",
+    "isShow": false,
+    "isMaintain": true
+  },
+  {
+    "GameID": 69,
+    "GameName": "Tài xỉu Live",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 70,
+    "GameName": "Xóc đĩa Live",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 100,
+    "GameName": "Sicbo",
+    "isShow": true,
+    "isMaintain": false
+  },
+  {
+    "GameID": 109,
+    "GameName": "Xèng 777",
+    "isShow": true,
+    "isMaintain": true
+  }
+]
